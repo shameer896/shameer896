@@ -4,9 +4,6 @@ Hi 👋 My name is Shameer
 * ✉️  You can contact me at [shameerak896@gmail.com](mailto:shameerak896@gmail.com)
 * ⚡  I am vengeance
 
-
-### Socials
-
 ### Badges
 
 <b>My GitHub Stats</b>
