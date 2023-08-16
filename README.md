@@ -1,10 +1,9 @@
 Hi 👋 My name is Shameer
 ========================
 
-* ✉️  You can contact me at [shameerak896@gmail.com](mailto:shameerak896@gmail.com)
-* ⚡  I am vengeance
-
-### Badges
+*  Saving cities and debugging code -just your average multitasking superhero. 🦇💻
+*  I am vengeance 🦇
+*  #BatmanInBinary
 
 <b>My GitHub Stats</b>
 
