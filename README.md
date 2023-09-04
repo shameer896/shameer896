@@ -1,4 +1,8 @@
-<img align="center" src="https://github.com/shameer896/shameer896/assets/62144206/599025b7-7568-4b14-a66a-649f2bfe787a"><br>
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=30&pause=1000&color=F70000&center=true&width=435&lines=I'm+Vengeance" alt="Typing SVG" /></a>
+</p>
+<p align="center" ><img src="https://github.com/shameer896/shameer896/assets/62144206/599025b7-7568-4b14-a66a-649f2bfe787a"></p>
+
 Hi 👋 My name is Shameer
 ========================
 
@@ -6,6 +10,10 @@ Hi 👋 My name is Shameer
 *  Saving cities and debugging code - just your average multitasking superhero. 🦇💻
 *  I am vengeance 🦇
 *  #BatmanInBinary
+
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bangers&duration=3000&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=They+think+I+am+hiding+in+the+shadows;but+I+am+the+shadows." alt="Typing SVG" /></a>
+  </p>
 
 <b>My GitHub Stats</b>
 
