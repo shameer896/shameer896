@@ -2,13 +2,17 @@
   <img src="https://github.com/shameer896/shameer896/assets/62144206/78ac1b00-b669-4aff-8807-04f21f7baab6">
 </p>
 
+---
+
 Hi there!!! 👋
 ========================
 *  💧 Water Hashira in the realm of coding
 *  ⚔️ bug-slayer
 *  #CodingHashira
 
-## 🌐 Socials:
+  ---
+
+# <p align="center">🌐 Socials</p>
 <p align="center">
    <a href="https://instagram.com/g.i.y.u_t.o.m.i.o.k.a_/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
@@ -19,7 +23,9 @@ Hi there!!! 👋
 </a>
 </p>
 
-# 💻 Tech Stack:
+---
+
+# <p align="center">💻 Tech Stack</p>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java">
@@ -33,21 +39,27 @@ Hi there!!! 👋
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
-
 </p>
-# 📊 GitHub Stats:
+
+---
+
+# <p align="center">📊 GitHub Stats</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shameer896&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shameer896&theme=tokyonight&hide_border=false">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameer896&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+# <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shameer896&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
-### ✍️ Random Dev Quote
+---
+
+## <p align="center">✍️ Random Dev Quote</p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
