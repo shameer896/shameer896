@@ -10,11 +10,11 @@ Hi there!!! 👋
 
 ## 🌐 Socials:
 <p align="center">
-   <a href="www.instagram.com/g.i.y.u_t.o.m.i.o.k.a_/" target="_blank" rel="noopener noreferrer">
+   <a href="https://instagram.com/g.i.y.u_t.o.m.i.o.k.a_/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
-<a href="www.linkedin.com/in/shameerak896/" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/shameerak896/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </p>
