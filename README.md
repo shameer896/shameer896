@@ -1,7 +1,9 @@
+![giphy](https://github.com/shameer896/shameer896/assets/62144206/599025b7-7568-4b14-a66a-649f2bfe787a)<br>
 Hi 👋 My name is Shameer
 ========================
 
-*  Saving cities and debugging code -just your average multitasking superhero. 🦇💻
+
+*  Saving cities and debugging code - just your average multitasking superhero. 🦇💻
 *  I am vengeance 🦇
 *  #BatmanInBinary
 
