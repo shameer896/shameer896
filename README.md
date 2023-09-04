@@ -1,4 +1,4 @@
-![giphy](https://github.com/shameer896/shameer896/assets/62144206/599025b7-7568-4b14-a66a-649f2bfe787a)<br>
+<img align="center" src="https://github.com/shameer896/shameer896/assets/62144206/599025b7-7568-4b14-a66a-649f2bfe787a"><br>
 Hi 👋 My name is Shameer
 ========================
 
