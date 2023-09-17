@@ -72,7 +72,3 @@ Hi there!!! 👋
 </p>
 
 ---
-
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bangers&duration=3000&pause=500&color=F7F7F7&center=true&multiline=true&width=535&separator=%3C&lines=Do+not+let+others+hold+the+right+to+decide+the+fate+of+your+repository;+%3Cbe+the+Hashira+of+your+code!" alt="Typing SVG" /></a>
-</p>
