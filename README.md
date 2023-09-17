@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/shameer896/shameer896/assets/62144206/78ac1b00-b669-4aff-8807-04f21f7baab6">
-</p>
-
----
-
 Hi there!!! 👋
 ========================
 *  💧 Water Hashira in the realm of coding
