@@ -57,11 +57,3 @@ Hi there!!! 👋
 </p>
 
 ---
-
-# <p align="center">🏆 GitHub Trophies</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shameer896&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4">
-</p>
-
-
----
