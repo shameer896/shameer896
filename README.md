@@ -1,7 +1,6 @@
 Hi there!!! 👋
 ========================
-*  💧 Water Hashira in the realm of coding
-*  ⚔️ bug-slayer #CodingHashira
+💧 Water Hashira in the realm of coding #CodingHashira
 
   ---
 
