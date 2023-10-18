@@ -6,8 +6,7 @@ Hi there!!! 👋
 
   ---
 
-# <p align="center">🌐 Socials</p>
-<p align="center">
+# 🌐 Socials
    <a href="https://instagram.com/g.i.y.u_t.o.m.i.o.k.a_/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
 </a>
@@ -15,12 +14,11 @@ Hi there!!! 👋
 <a href="https://linkedin.com/in/shameerak896/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-</p>
 
 ---
 
-# <p align="center">💻 Tech Stack</p>
-<p align="center">
+# 💻 Tech Stack
+<p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
@@ -37,23 +35,8 @@ Hi there!!! 👋
 
 ---
 
-# <p align="center">📊 GitHub Stats</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shameer896&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-</p>
-
----
-
-# <p align="center">🔥 GitHub Streak</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shameer896&theme=tokyonight&hide_border=false">
-</p>
-
----
-
-# <p align="center">📊Languages Used</p>
-<p align="center">
+# 📊Languages Used
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameer896&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
+
 
 ---
