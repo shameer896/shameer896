@@ -1,7 +1,7 @@
-Hi there!!! 👋
+Hi there!!!
 =============
 
-- I'm Shameer
+- <b>I'm Shameer</b>
 - Click <a href="https://shameerak-portfolio.netlify.app/"> Here </a> To Visit My Portfolio.
 
 ---
